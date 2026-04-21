@@ -180,6 +180,9 @@ font-size: 30px;
     margin: 1rem 0;
     transition: 0.3s ease;
 }
+.content-box a {
+    text-decoration: none;
+}
 .box:hover .box-game{
     transform: scale(1.05);
 }
