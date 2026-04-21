@@ -3,7 +3,7 @@
 This is an Amazon Clone built using HTML & CSS.
 
 ## 🚀 Features
-- Responsive design (mobile + desktop)
+- Responsive design (desktop)
 - Product sections
 - Hero banner
 - Clean UI layout
