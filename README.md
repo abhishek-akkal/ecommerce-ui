@@ -13,7 +13,7 @@ This is an Amazon Clone built using HTML & CSS.
 - CSS
 
 ## 🌐 Live Demo
-https://abhishek-akkal.github.io/amazon-clone/
+https://abhishek-akkal.github.io/ecommerce-ui/
 
 ## 📌 Author
 Abhishek Akkal
