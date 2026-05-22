@@ -17,7 +17,7 @@ A simple Amazon-inspired e-commerce user interface built using HTML and CSS. Thi
 
 ## 🌐 Live Demo
 
-https://abhishek-akkal.github.io/ecommerce-ui/
+https://ecommerce-ui-beige-ten.vercel.app/
 
 ## 📚 What I Learned
 
