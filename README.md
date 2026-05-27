@@ -28,4 +28,4 @@ https://ecommerce-ui-beige-ten.vercel.app/
 
 ## 📌 Author
 
-Abhishek Akkal
+**Abhishek Akkal**
